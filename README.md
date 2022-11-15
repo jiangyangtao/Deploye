@@ -10,7 +10,7 @@
 - 支持自动创建 nginx 配置
 - 支持 nuget 包部署
 - 支持 docker 部署
-- 支持 github / gitlab 编码及部署
+- 支持 hook github / gitlab 编译及部署
 - 支持日志输出
 - 支持日志收集
 - 上报应用列表
