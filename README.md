@@ -11,8 +11,4 @@
 - 支持 nuget 包部署
 - 支持 docker 部署
 - 支持 hook github / gitlab 编译及部署
-- 支持日志输出
-- 支持日志收集
-- 上报应用列表
-- 上报资源占比
 - 设计保留 Java/Go/Python/front end 的部署
